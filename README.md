@@ -1,16 +1,14 @@
-### Hi there 👋
+### Zale 
+[![Gmail Badge](https://img.shields.io/badge/-zaleguo@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zaleguo@gmail.com)](mailto:zaleguo@gmail.com)
 
-<!--
-**zaleGZL/zaleGZL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About
 
-Here are some ideas to get you started:
+-  **Skills :** JS, React And Mini-program Development :zap:
+-  **Languages :** Node.js, Python, JavaScript
+-  **Hobbies :** Music And Movement
+-  **Motto :** Manufacturing tools to increase productivity :heart: 
+-  **Company :** Tencent
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![github stats](https://github-readme-stats.vercel.app/api?username=zaleGZL&show_icons=true)
+
