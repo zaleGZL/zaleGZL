@@ -11,7 +11,7 @@
 -  **Languages :** Node.js, Python, JavaScript
 -  **Hobbies :** Music And Movement
 -  **Motto :** Manufacturing tools to increase productivity :heart: 
--  **Company :** Tencent
+-  **Employers :** Tencent
 
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=zaleGZL&show_icons=true)
