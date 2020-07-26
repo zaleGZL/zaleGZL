@@ -3,7 +3,7 @@
 
 ### My Person Project
 
-- [gulp-utdsl](https://github.com/zaleGZL/gulp-utdsl) 使用 UTDSL(单元测试领域语言) 来编写测试用例
+- [gulp-utdsl](https://github.com/zaleGZL/gulp-utdsl) 通过 UTDSL (单元测试领域专用语言) 来高效编写测试用例
 
 ### About
 
