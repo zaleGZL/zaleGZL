@@ -8,8 +8,8 @@
 ### About
 
 -  **Skills :** JS, React And Mini-program Development :zap:
--  **Languages :** Node.js, Python, JavaScript
--  **Hobbies :** Music And Movement
+-  **Languages :** TypeScript, Python, Go
+-  **Hobbies :** Side Project
 -  **Motto :** Manufacturing tools to increase productivity :heart: 
 
 
